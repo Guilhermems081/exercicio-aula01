@@ -13,5 +13,5 @@
 > - git add
 > - git commit -m
 > - git push
-- git checkout -b
-- git checkout
+> - git checkout -b
+> - git checkout
